@@ -6,16 +6,16 @@ description: >-
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
 google_analytics: "UA-89852122-13"
-author:           "Cicak Bin Kadal"
-address:          "Pamulang"
+author:           "Robertus Aditya Sukoco"
+address:          "Condet"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://cbkadal.github.io/os212/"
+urlweb:           "https://robert-adit-sukoco.github.io/os212/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/cbkadal/os212/"
-urlghpage:        "https://cbkadal.github.io/os212/"
+urlgithub:        "https://github.com/robert-adit-sukoco/os212/"
+urlghpage:        "https://robert-adit-sukoco.github.io/os212/"
 keywords:         "jekyll, testing"
 github:           
   - metadata
