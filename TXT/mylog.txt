@@ -19,3 +19,4 @@ ZCZC W02  30 L27 RSA Key Pair created
 ZCZC W02  05 L03 mypubkey.txt added to repo
 ZCZC W02  10 L04 Page modified
 ZCZC W02 180 L73 Playing VALORANT
+ZCZC W02  05 L03 myscript.sh added to repo
