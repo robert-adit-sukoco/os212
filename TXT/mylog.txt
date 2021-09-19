@@ -15,3 +15,7 @@ ZCZC W02  05 L15 Week 1 Quiz 2 done
 ZCZC W02  30 L28 Tried to log in to VirtualBox Guest using PuTTY (spoiler: it worked)
 ZCZC W02  05 L01 Asking for help on OS212 discord server
 ZCZC W02  40 L08 Kak Dennis helped me with my problem :DD
+ZCZC W02  30 L27 RSA Key Pair created
+ZCZC W02  05 L03 mypubkey.txt added to repo
+ZCZC W02  10 L04 Page modified
+ZCZC W02 180 L73 Playing VALORANT
