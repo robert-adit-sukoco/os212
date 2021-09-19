@@ -12,11 +12,17 @@ ZCZC W01 180 L73 Playing VALORANT
 ZCZC W01  20 L00 Log Updated
 ZCZC W02  05 L05 Week 1 Quiz 1 done
 ZCZC W02  05 L15 Week 1 Quiz 2 done
+ZCZC W02 120 L11 Read OSC10 chapter 16 + 17
 ZCZC W02  30 L28 Tried to log in to VirtualBox Guest using PuTTY (spoiler: it worked)
 ZCZC W02  05 L01 Asking for help on OS212 discord server
 ZCZC W02  40 L08 Kak Dennis helped me with my problem :DD
 ZCZC W02  30 L27 RSA Key Pair created
+ZCZC W02  30 L14 Generated GPG Key
+ZCZC W02  10 L15 Listed all GPG Key
+ZCZC W02  20 L16 Imported ospubkey.txt from https://osp4diss.vlsm.org/W02-02.html
+ZCZC W02  10 L18 Exported mypubkey.txt
 ZCZC W02  05 L03 mypubkey.txt added to repo
+ZCZC W02  20 L00 myscript.sh added to repo
 ZCZC W02  10 L04 Page modified
 ZCZC W02 180 L73 Playing VALORANT
 ZCZC W02  05 L03 myscript.sh added to repo
