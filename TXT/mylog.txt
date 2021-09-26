@@ -28,16 +28,11 @@ ZCZC W02 180 L73 Playing VALORANT
 ZCZC W02  05 L03 myscript.sh added to repo
 ZCZC W02  05 L31 Changed localhost name
 ZCZC W03 180 L73 Playing Sekiro Shadows Die Twice
-ZCZC W03  60 
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
-ZCZC W03
+ZCZC W03  60 L11 Read OSC10 chapter 13 + chapter 14 + chapter 15
+ZCZC W03  30 L12 Tried demos in the link on the ppt
+ZCZC W03  30 L13 Tried previous midterm problems
+ZCZC W03  60 L14 bash_aliases up to date
+ZCZC W03  20 L15 Created an extra virtual disk
+ZCZC W03  20 L17 Reviewed peer links
+ZCZC W03  25 L18 Log updated!
+ZCZC W03  20 L19 myscript.sh revised and executed
