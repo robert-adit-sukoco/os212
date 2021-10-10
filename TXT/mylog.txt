@@ -36,4 +36,18 @@ ZCZC W03  20 L15 Created an extra virtual disk
 ZCZC W03  20 L17 Reviewed peer links
 ZCZC W03  25 L18 Log updated!
 ZCZC W03  20 L19 myscript.sh revised and executed
-ZCZC W04  
+ZCZC W04 120 L11 Read OSC10 chapter 9
+ZCZC W04  60 L12 Tried Demos
+ZCZC W04  60 L13 Tried previous midterm problems
+ZCZC W04  30 L14 Installed Package List 2 (TLPI)
+ZCZC W04  40 L15 Did various things with WEEK04.tar.bz2.asc
+ZCZC W04  40 L17 Reviewed peer links
+ZCZC W04  20 L18 Updated log
+ZCZC W04  10 L19 Submitted Week 04 assignment
+ZCZC W05 120 L11 Read OSC10 chapter 10
+ZCZC W05  60 L12 Tried demos
+ZCZC W05  60 L13 Tried previous midterm problems
+ZCZC W05  30 L14 Lowered memory and did things with WEEK05.tar.bz2.asc and mymemory2.c
+ZCZC W05  30 L17 Reviewed peer links
+ZCZC W05  20 L18 Updated Log
+ZCZC W05  10 L19 Submitted Week 05 assignment
