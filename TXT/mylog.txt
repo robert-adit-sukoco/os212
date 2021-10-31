@@ -51,3 +51,10 @@ ZCZC W05  30 L14 Lowered memory and did things with WEEK05.tar.bz2.asc and mymem
 ZCZC W05  30 L17 Reviewed peer links
 ZCZC W05  20 L18 Updated Log
 ZCZC W05  10 L19 Submitted Week 05 assignment
+ZCZC W06 120 L11 READ OSC10 chapter 3 and 4
+ZCZC W06  30 L12 Tried demos
+ZCZC W06  30 L13 Tried previous midterm problems
+ZCZC W06  45 L14 Fetched WEEK06 tarball, bashed 000-README.txt, results copied
+ZCZC W06  10 L17 Update peer links
+ZCZC W06  20 L18 Updated logs 
+ZCZC W06  20 L19 Week 06 Submitted
