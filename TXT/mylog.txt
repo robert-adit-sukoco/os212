@@ -58,3 +58,12 @@ ZCZC W06  45 L14 Fetched WEEK06 tarball, bashed 000-README.txt, results copied
 ZCZC W06  10 L17 Update peer links
 ZCZC W06  20 L18 Updated logs 
 ZCZC W06  20 L19 Week 06 Submitted
+ZCZC W07 120 L11 Read OSC10 chapter 6, 7, 8
+ZCZC W07  30 L12 Tried demos in SistemOperasi repo
+ZCZC W07  30 L13 Tried previous midterm problems
+ZCZC W07  45 L14 Fetched WEEK07 tarball, read and studied report2.txt
+ZCZC W07  30 L15 Updated bookmark links
+ZCZC W07  30 L17 Reviewed peer links
+ZCZC W07  20 L18 Updated logs
+ZCZC W07  10 L19 Submitted Week 07
+ZCZC W07  60 L04 Fixing GitHub Page (adding index.md)
