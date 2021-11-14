@@ -67,3 +67,11 @@ ZCZC W07  30 L17 Reviewed peer links
 ZCZC W07  20 L18 Updated logs
 ZCZC W07  10 L19 Submitted Week 07
 ZCZC W07  60 L04 Fixing GitHub Page (adding index.md)
+ZCZC W08  60 L11 Read OSC10 Chapter 5
+ZCZC W08  10 L12 Tried demos
+ZCZC W08  10 L13 Tried previous final term problems
+ZCZC W08 360 L14 Linux From Scratch initiated (had quite a few problems)
+ZCZC W08 360 L15 Lots of hours of debugging doing chapter (had quite a few problems)
+ZCZC W08  30 L18 Reviewed peer links
+ZCZC W08  30 L19 Updated Log
+ZCZC W08  30 L20 WEEK 08 Tarball is there :D
