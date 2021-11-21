@@ -78,7 +78,7 @@ ZCZC W08  30 L20 WEEK 08 Tarball is there :D
 ZCZC W09  10 L11 I've read OSC10 chapter 11
 ZCZC W09  10 L12 Tried demos in SistemOperasi repo
 ZCZC W09  10 L13 Tried previous final term problems
-ZCZC W09 360 L14 LFS Part 2 (Chapter 5 and 6 done, Only just started chapter 7)
+ZCZC W09 360 L14 LFS Part 2 (Chapter 5, 6, and 7 done)
 ZCZC W09  10 L17 Reviewed peer links
 ZCZC W09  10 L18 Updated log
 ZCZC W09  10 L19 Week 09 tarball should be in the TXT folder
