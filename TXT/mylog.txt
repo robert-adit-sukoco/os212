@@ -83,5 +83,12 @@ ZCZC W09  10 L17 Reviewed peer links
 ZCZC W09  10 L18 Updated log
 ZCZC W09  10 L19 Week 09 tarball should be in the TXT folder
 ZCZC W09  30 L27 Due to my mistake of forgotting my GPG key passphrase, i updated mypubkey.txt with a new one (I deeply apologize if this makes things harder)
-
-
+ZCZC W10  30 L11 I've read OSC10 chapter 12
+ZCZC W10  30 L12 Tried demos in SistemOperasi repo
+ZCZC W10  60 L13 Tried previous final term problems
+ZCZC W10 600 L14 Done LFS Chapter 7 and 8
+ZCZC W10  20 L15 Updated bookmark links
+ZCZC W10  05 L16 Need more walkthroughs
+ZCZC W10  10 L17 Peer Links reviewed
+ZCZC W10  20 L18 Log updated
+ZCZC W10  10 L19 Week 10 Submitted
